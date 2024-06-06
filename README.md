@@ -13,7 +13,7 @@ Effect system used
 
 Phone test done
 
-sound system was created.
+Sound system was created.
 
 
 ![Ekran görüntüsü 2024-06-06 200211](https://github.com/Nhuseyinozen/Ball-Bucket/assets/149398357/aa0880e2-84b4-4ecc-8ee8-095dcd6112fa)
